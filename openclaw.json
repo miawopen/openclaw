@@ -1,0 +1,8 @@
+{
+  "gateway": {
+    "bind": "lan",
+    "controlUi": {
+      "allowedOrigins": ["https://miawopen.onrender.com"]
+    }
+  }
+}
